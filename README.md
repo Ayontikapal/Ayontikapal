@@ -1,11 +1,12 @@
 ## Hi there 👋
+My name is Ayontika Pal, an undergrad student in India, exploring through coding.
 
+##Hacktoberfest 2025
+[![An image of @ayontikapal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayontikapal)](https://holopin.io/@ayontikapal)
 <!--
 **Ayontikapal/Ayontikapal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+Here are some ideas to get you started
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
