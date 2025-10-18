@@ -3,7 +3,7 @@ My name is Ayontika Pal, an undergrad student in India, exploring through coding
 
 ##Hacktoberfest 2025
 [![An image of @ayontikapal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayontikapal)](https://holopin.io/@ayontikapal)
-<img src="https://holopin.me/yourusername" width="400" alt="Holopin badges"/>
+<img src="https://holopin.me/ayontikapal" width="400" alt="Holopin badges"/>
 
 <!--
 **Ayontikapal/Ayontikapal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
